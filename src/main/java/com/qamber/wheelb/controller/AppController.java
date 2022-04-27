@@ -73,7 +73,7 @@ public class AppController {
 	
 
 	}
-	@GetMapping(path="/delete")
+	@GetMapping()
 	public ResponseEntity<Customer> deleteCustomer(@RequestParam String id){
 		
 		System.out.println("[AppController]: Add Customer Started");
