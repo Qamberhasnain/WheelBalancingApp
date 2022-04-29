@@ -1,0 +1,1 @@
+<p>This app was just to receive and store information but I just got GitHub's Student developer pack, Now I can learn and send sms, make calls and send alerts to my the customers of this application. :)</p>
